@@ -1,4 +1,4 @@
-export type Item = {
+export type RecipeItem = {
   ID: number;
   name: string;
   quantity: number;
@@ -8,8 +8,8 @@ export type Item = {
 
 export type Recipe = {
   ID: number;
-  items: { [ID: number]: Item } | undefined;
-  result: Item;
+  items: { [ID: number]: RecipeItem } | undefined;
+  result: RecipeItem;
   craftCost: number;
   craftCostNoCrystal: number;
   price: number;
@@ -22,6 +22,19 @@ export type histArr = {
     price: number;
     quantity: number;
   }>;
+};
+
+export type ItemMarketInfo = {
+  itemID: string;
+  name: string;
+  minPrice: number;
+  averagePrice: number;
+  currentAveragePrice: number;
+  listings?: Array<ListingView>;
+  recentHistory: Array<SaleView>;
+  quantForSale: number;
+  lastWeekSales: number;
+  lastWeekValue: number;
 };
 
 //Universalis Types
@@ -88,7 +101,7 @@ export interface CurrentlyShownView {
   worldUploadTimes?: Object;
 }
 
-interface ListingView {
+export interface ListingView {
   // The time that this listing was posted, in seconds since the UNIX epoch.
   lastReviewTime: number; // int64
   // The price per unit sold.

@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { Inter } from "@next/font/google";
-import { SaleView, CurrentlyShownView, Item, Recipe, histArr } from "@/types";
+import { SaleView, CurrentlyShownView, RecipeItem, Recipe, histArr } from "@/types";
 import itemData from "../../../data/items.json";
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -67,7 +67,7 @@ export default function ItemPage() {
 
     for (let i = 0; i < 10; i++) {
       //console.log(recipeRaw[`Amount{Ingredient}[${i}]`]);
-      const item: Item = {
+      const item: RecipeItem = {
         quantity: recipeRaw[`Amount{Ingredient}[${i}]`],
         ID: -1,
         name: "",
@@ -160,11 +160,15 @@ export default function ItemPage() {
       const itemStr = Object.keys(itemIDs)
         .concat(recipe.result.ID.toString())
         .toString();
-      fetch("../api/marketData?itemIDs=" + itemStr)
+      fetch(`../api/marketData?itemIDs=${itemStr}&fields=items.minPrice`)
         .then((res) => res.json())
-        .then((priceArray) => {
-          //console.log(priceArray);
-          let newRecipe = SetRecipePrices(priceArray);
+        .then((data) => {
+          const { items } = data;
+          let testArray = Object.keys(items).map((ID) => {
+            return { ID: +ID, price: items[ID]["minPrice"] };
+          });
+          //console.log(testArray);
+          let newRecipe = SetRecipePrices(testArray);
           if (newRecipe) {
             _setRecipe(newRecipe);
           }
@@ -172,8 +176,8 @@ export default function ItemPage() {
     }
   }
 
-  function GetItemMarketData(item: Item) {
-    fetch("../api/marketData?itemIDs=" + item.ID + "&fields=minPrice")
+  function GetItemMarketData(item: RecipeItem) {
+    fetch(`../api/marketData?itemIDs=${item.ID}&getHistory=true`)
       .then((res) => res.json())
       .then((itemMarketInfo) => {
         console.log(itemMarketInfo);
@@ -406,7 +410,7 @@ export default function ItemPage() {
             y: maxPriceArr.concat([...minPriceArr].reverse()),
             type: "scatter",
             line: { color: "red" },
-            name: "Error Bar",
+            name: "Min/Max Price",
             fill: "tonextx",
             yaxis: "y2",
           },

@@ -2,6 +2,8 @@ import { NextApiRequest, NextApiResponse } from "next";
 
 const MarketUrlBase = "https://universalis.app/api/v2/";
 
+/*fields is passed to universalis api
+getHistory will replace recentHistory will full sale history*/
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
@@ -10,31 +12,48 @@ export default async function handler(
     res.status(500).json({ error: "No ID provided" });
   } else {
     const itemStr = req.query.itemIDs as string;
+    const fieldsStr = "?fields=" + ((req.query.fields as string) ?? "");
+    const getHistory = (req.query.getHistory as string) === "true";
     const multi = itemStr.includes(",");
 
-    let fields = "";
-    if (multi) fields = "?fields=items.minPrice";
+    console.log(fieldsStr);
+    console.log(getHistory);
 
-    const fieldStr = fields;
+    const itemIDs = itemStr.split(",");
+    let fields =
+      itemIDs.length > 1
+        ? ((req.query.fields as string) ?? "")
+            .split(",")
+            .map((field) => "items." + field)
+            .toString()
+        : "";
+
+    console.log(fields);
+
+    //const fieldStr = fields;
     //res.status(200).json(MarketUrlBase + `Behemoth/${itemStr}${fieldStr}`);
 
-    let priceArray: Array<{ ID: number; price: number }> = [];
-    await fetch(MarketUrlBase + `Behemoth/${itemStr}${fieldStr}`)
+    await fetch(MarketUrlBase + `Behemoth/${itemStr}${fieldsStr}`)
       .then((res) => res.json())
       .then((data) => {
-        if (multi) {
-          const { items } = data;
-          Object.keys(items).forEach((ID) => {
-            priceArray.push({ ID: +ID, price: items[ID]["minPrice"] });
-          });
-          //console.log(priceArray);
-          res.status(200).json(priceArray);
-        } else {
+        //console.log(data);
+
+        if (getHistory) {
           fetch(`${MarketUrlBase}history/Behemoth/${itemStr}`)
             .then((res) => res.json())
-            .then((history) =>
-              res.status(200).json({ ...data, recentHistory: history.entries })
-            );
+            .then((history) => {
+              if (itemIDs.length > 1) {
+                itemIDs.forEach(
+                  (ID) =>
+                    (data.items[ID].recentHistory = history.items[ID].entries)
+                );
+              } else {
+                data.recentHistory = history.entries;
+              }
+              return res.status(200).json(data);
+            });
+        } else {
+          return res.status(200).json(data);
         }
       });
   }

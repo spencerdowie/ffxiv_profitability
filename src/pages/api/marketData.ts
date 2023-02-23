@@ -20,15 +20,6 @@ export default async function handler(
     console.log(getHistory);
 
     const itemIDs = itemStr.split(",");
-    let fields =
-      itemIDs.length > 1
-        ? ((req.query.fields as string) ?? "")
-            .split(",")
-            .map((field) => "items." + field)
-            .toString()
-        : "";
-
-    console.log(fields);
 
     //const fieldStr = fields;
     //res.status(200).json(MarketUrlBase + `Behemoth/${itemStr}${fieldStr}`);
@@ -42,11 +33,23 @@ export default async function handler(
           fetch(`${MarketUrlBase}history/Behemoth/${itemStr}`)
             .then((res) => res.json())
             .then((history) => {
+              // console.log(
+              //   itemIDs.filter(
+              //     (ID) => !history.unresolvedItems.includes(parseInt(ID))
+              //   )
+              // );
+              // console.log(history.unresolvedItems);
               if (itemIDs.length > 1) {
-                itemIDs.forEach(
-                  (ID) =>
-                    (data.items[ID].recentHistory = history.items[ID].entries)
-                );
+                itemIDs
+                  .filter(
+                    (ID) => !history.unresolvedItems.includes(parseInt(ID))
+                  )
+                  .forEach((ID) => {
+                    //console.log(ID);
+                    //console.log(data.items[ID]);
+                    //console.log(history.items[ID]);
+                    data.items[ID].recentHistory = history.items[ID].entries;
+                  });
               } else {
                 data.recentHistory = history.entries;
               }

@@ -6,6 +6,8 @@ import { Inter } from "@next/font/google";
 import { DataGrid, GridColDef, GridRowsProp } from "@mui/x-data-grid";
 import styles from "@/styles/Home.module.css";
 import itemData from "../../data/items.json";
+import searchCategories from "../../data/SearchCategory.json";
+import searchLookup from "../../data/SearchCategoryLookup.json";
 import {
   CurrentlyShownView,
   ItemMarketInfo,
@@ -13,12 +15,15 @@ import {
   RecipeItem,
   SaleView,
 } from "@/types";
+import { GetMarketData } from "@/utils/marketDataHelpers";
 
 const inter = Inter({ subsets: ["latin"] });
 
 const itemIDs = ["27701", "12108", "5057", "5067", "25796", "6474", "1663"];
 const barColours = ["#f44336", "#efbb5aa3", "#088208a3"];
 const headers = [
+  "Item ID",
+  "Item Name",
   "Quant. for Sale",
   "Supply Ratio",
   "Lowest Price",
@@ -27,16 +32,12 @@ const headers = [
   "Weekly Sales",
   "Trading Volume",
 ];
-const columns: GridColDef[] = [
-  { field: "col1", headerName: "Item ID", width: 80 },
-  { field: "col2", headerName: "Item Name", width: 150 },
-].concat(
-  headers.map((name, index) => ({
-    field: "col" + (3 + index),
-    headerName: name,
-    width: 150,
-  }))
-);
+const columns: GridColDef[] = headers.map((name, index) => ({
+  field: "col" + (index + 1),
+  headerName: name,
+  width: 150,
+}));
+columns[0].width = 80;
 columns[3].renderCell = renderProgress;
 function renderProgress(params: any) {
   return <ProgressBar value={Number((1 - params.value) * 100)!} />;
@@ -67,61 +68,34 @@ function ProgressBar(props: { value: number }) {
 }
 export default function Home() {
   const [items, SetItems] = useState<Array<ItemMarketInfo>>([]);
+  const [categoryDropdown, SetCategoryDropdown] = useState(false);
   //useEffect(() => {}, []);
 
-  function GetMarketData() {
-    const now = new Date(Date.now());
-    const lastWeek = new Date(
-      now.getFullYear(),
-      now.getMonth(),
-      now.getDate() - 7
+  function handleGetMarketData(itemIDs: Array<string>) {
+    GetMarketData(itemIDs).then((items) => SetItems(items));
+  }
+
+  // function handleCategories() {
+  //   fetch(`api/hello`)
+  //     .then((res) => res.json())
+  //     .then((data) => console.log(data));
+  // }
+
+  function CategoryDropdown() {
+    if (!categoryDropdown) return null;
+    return (
+      <ul className="absolute w-1/3 bg-blue-400 ">
+        {Object.keys(searchCategories).map((cat) => (
+          <li
+            key={+cat}
+            className="cursor-pointer"
+            onClick={() => console.log(searchLookup[cat as keyof {}])}
+          >
+            {searchCategories[cat as keyof {}]}
+          </li>
+        ))}
+      </ul>
     );
-
-    fetch(
-      "api/marketData?itemIDs=" +
-        itemIDs.toString() +
-        "&fields=items.minPrice,items.averagePrice,items.currentAveragePrice,items.listings&getHistory=true"
-    )
-      .then((res) => res.json())
-      .then(({ items }) =>
-        SetItems(
-          Object.keys(items).map((key) => {
-            const item = items[key];
-            const quantForSale = item.listings.reduce(
-              (sum: number, currentValue: ListingView) =>
-                sum + currentValue.quantity,
-              0
-            );
-
-            const lastWeekListings: Array<SaleView> = item.recentHistory.filter(
-              (sale: SaleView) => {
-                const adjustedTime = sale.timestamp * 1000;
-                return adjustedTime > lastWeek.getTime();
-              }
-            );
-
-            let lastWeekSales = 0;
-            let lastWeekValue = 0;
-
-            lastWeekListings.forEach((sale) => {
-              lastWeekSales += sale.quantity;
-              lastWeekValue += sale.pricePerUnit * sale.quantity;
-            });
-
-            return {
-              itemID: key,
-              name: itemData[key as keyof {}]["en"],
-              minPrice: item.minPrice,
-              averagePrice: item.averagePrice,
-              currentAveragePrice: item.currentAveragePrice,
-              recentHistory: item.recentHistory,
-              quantForSale: quantForSale,
-              lastWeekSales: lastWeekSales,
-              lastWeekValue: lastWeekValue,
-            };
-          })
-        )
-      );
   }
 
   return (
@@ -129,14 +103,26 @@ export default function Home() {
       <div className="grid grid-cols-10 h-full">
         <div className="col-span-7 mt-10 ml-20 space-y-3 h-full">
           <button
-            className="w-1/2 bg-blue-400 rounded-md p-2 text-center"
-            onClick={() => GetMarketData()}
+            className="w-1/3 bg-blue-400 rounded-md p-2 text-center"
+            onClick={() => handleGetMarketData(itemIDs)}
           >
             Get Market Data
           </button>
+          {/* <button
+            className="w-1/3 bg-blue-400 rounded-md p-2 text-center"
+            onClick={() => handleCategories()}
+          >
+            Out Categories
+          </button> */}
           <h2>Search</h2>
           <input type="search"></input>
           <br />
+          <button
+            className="w-1/3 bg-blue-400 rounded-md p-2 text-center"
+            onClick={() => SetCategoryDropdown(!categoryDropdown)}
+          >
+            Categories
+          </button>
           <br />
           <br />
           <div className=" h-1/2 w-3/4 bg-white mt-20">
@@ -158,6 +144,7 @@ export default function Home() {
               columns={columns}
             />
           </div>
+          {CategoryDropdown()}
         </div>
       </div>
     </div>

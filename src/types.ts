@@ -8,12 +8,19 @@ export type RecipeItem = {
 
 export type Recipe = {
   ID: number;
-  items: { [ID: number]: RecipeItem } | undefined;
+  ingredients: { [ID: number]: RecipeItem } | undefined;
   result: RecipeItem;
   craftCost: number;
   craftCostNoCrystal: number;
   price: number;
 };
+
+//From import
+// type Recipe = {
+//   resultItem: number;
+//   resultAmount: number;
+//   ingredients: Array<{ item: number; amount: number }>;
+// };
 
 export enum MarketFields {}
 
@@ -23,6 +30,8 @@ export type histArr = {
     quantity: number;
   }>;
 };
+
+export type CraftData = {};
 
 export type ItemMarketInfo = {
   itemID: string;

@@ -3,8 +3,21 @@ import { useRouter } from "next/router";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { Inter } from "@next/font/google";
-import { SaleView, CurrentlyShownView, RecipeItem, Recipe, histArr } from "@/types";
-import itemData from "../../../data/items.json";
+
+import {
+  ItemMarketInfo,
+  SaleView,
+  CurrentlyShownView,
+  RecipeItem,
+  Recipe,
+  histArr,
+} from "@/types";
+import { GetMarketData, GetItemName } from "@/utils/marketDataHelpers";
+
+import recipes from "../../../data/Recipe.json";
+import recipeLookup from "../../../data/RecipeLookup.json";
+import reverseRecipeLookup from "../../../data/ReverseRecipeLookup.json";
+
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
 const inter = Inter({ subsets: ["latin"] });
@@ -14,43 +27,38 @@ const SharkBowID = 21792;
 
 const IronIngot = 5057;
 
-const MarketUrlBase = "https://universalis.app/api/v2/";
-
-//const fetcher = (url: string) => fetch(url).then((res) => res.json());
-
 export default function ItemPage() {
   const router = useRouter();
-  const { ID } = router.query;
+  const [item, _setItem] = useState<{ ID: string; Name: string }>();
   const [recipe, _setRecipe] = useState<Recipe>({} as Recipe);
-  const [marketInfo, SetMarketInfo] = useState<CurrentlyShownView>();
+  const [marketInfo, SetMarketInfo] = useState<ItemMarketInfo>();
 
   useEffect(() => {
+    const ID = router.query.ID as string;
     if (ID != undefined) {
+      _setItem({ ID: ID, Name: GetItemName(parseInt(ID)) });
       //console.log(ID);
-      fetch("/api/recipe/" + ID).then((res) => {
-        if (res.ok) {
-          res.json().then((data) => {
-            SetRecipe(data["recipes"][0]);
-          });
-        } else {
-          res.json().then(({ error }) => {
-            console.error(error);
-          });
-        }
-      });
+      SetRecipe(recipes[recipeLookup[ID as keyof {}][0]["recipe"]]);
+      // fetch("/api/recipe/" + ID).then((res) => {
+      //   if (res.ok) {
+      //     res.json().then((data) => {
+      //       SetRecipeRaw(data["recipes"][0]);
+      //     });
+      //   } else {
+      //     res.json().then(({ error }) => {
+      //       console.error(error);
+      //     });
+      //   }
+      // });
     }
   }, [router.query]);
 
-  function GetItemName(ID: number) {
-    return itemData[ID as keyof {}]["en"];
-  }
-
-  function SetRecipe(recipeRaw: any) {
+  function SetRecipeRaw(recipeRaw: any) {
     //console.log("Setting recipe");
     let resultID = recipeRaw["Item{Result}"];
     let recipe: Recipe = {
       ID: recipeRaw["ID"],
-      items: {},
+      ingredients: {},
       result: {
         ID: resultID,
         name: GetItemName(resultID),
@@ -63,7 +71,7 @@ export default function ItemPage() {
       price: -1,
     };
 
-    if (recipe.items == undefined) return;
+    if (recipe.ingredients == undefined) return;
 
     for (let i = 0; i < 10; i++) {
       //console.log(recipeRaw[`Amount{Ingredient}[${i}]`]);
@@ -79,9 +87,49 @@ export default function ItemPage() {
         item.ID = matID;
         item.name = GetItemName(matID);
         //console.log(itemData);
-        recipe.items[item.ID] = item;
+        recipe.ingredients[item.ID] = item;
       }
     }
+    //console.log(recipe);
+    _setRecipe(recipe);
+  }
+
+  function SetRecipe(newRecipe: {
+    resultItem: number;
+    resultAmount: number;
+    ingredients: Array<{ item: number; amount: number }>;
+  }) {
+    //console.log("Setting recipe");
+    let recipe: Recipe = {
+      ID: 0,
+      ingredients: {},
+      result: {
+        ID: newRecipe.resultItem,
+        name: GetItemName(newRecipe.resultItem),
+        quantity: newRecipe.resultAmount,
+        price: -1,
+        total: -1,
+      },
+      craftCost: -1,
+      craftCostNoCrystal: -1,
+      price: -1,
+    };
+
+    let ingredients = {} as { [ID: number]: RecipeItem };
+
+    newRecipe.ingredients.forEach((ingredient) => {
+      const item: RecipeItem = {
+        quantity: ingredient.amount,
+        ID: ingredient.item,
+        name: GetItemName(ingredient.item),
+        price: -1,
+        total: -1,
+      };
+      ingredients[item.ID] = item;
+    });
+
+    recipe.ingredients = ingredients;
+
     //console.log(recipe);
     _setRecipe(recipe);
   }
@@ -92,8 +140,8 @@ export default function ItemPage() {
     let newRecipe = { ...recipe };
     let craftCost = 0;
     let craftCostNoCrystal = 0;
-    if (newRecipe.items == undefined) return null;
-    let items = newRecipe.items;
+    if (newRecipe.ingredients == undefined) return null;
+    let items = newRecipe.ingredients;
     priceArray.forEach(({ ID, price }) => {
       if (items[ID] == undefined) {
         return;
@@ -104,7 +152,7 @@ export default function ItemPage() {
       craftCost += total;
       if (ID > 20) craftCostNoCrystal += total;
     });
-    newRecipe.items = items;
+    newRecipe.ingredients = items;
     newRecipe.craftCost = craftCost;
     newRecipe.craftCostNoCrystal = craftCostNoCrystal;
     let itemPrice = priceArray.find(
@@ -118,7 +166,7 @@ export default function ItemPage() {
 
   function CreateTableRecipe(recipe: Recipe) {
     //console.log(recipe);
-    if (recipe.items == undefined) return null;
+    if (recipe.ingredients == undefined) return null;
 
     const profit = recipe.price - recipe.craftCost;
     return (
@@ -133,7 +181,7 @@ export default function ItemPage() {
           </tr>
         </thead>
         <tbody className="m-20">
-          {Object.entries(recipe.items).map(([ID, item]) => {
+          {Object.entries(recipe.ingredients).map(([ID, item]) => {
             const profitAdded = profit * (item.total / recipe.craftCost);
             return (
               <tr key={ID} className="text-center">
@@ -153,7 +201,7 @@ export default function ItemPage() {
   }
 
   function GetRecipePricingData(recipe: Recipe) {
-    let itemIDs = recipe?.items;
+    let itemIDs = recipe?.ingredients;
     if (itemIDs == undefined) {
       return;
     } else {
@@ -176,13 +224,11 @@ export default function ItemPage() {
     }
   }
 
-  function GetItemMarketData(item: RecipeItem) {
-    fetch(`../api/marketData?itemIDs=${item.ID}&getHistory=true`)
-      .then((res) => res.json())
-      .then((itemMarketInfo) => {
-        console.log(itemMarketInfo);
-        SetMarketInfo(itemMarketInfo);
-      });
+  function GetItemMarketData(ID: number) {
+    GetMarketData([ID.toString()]).then((itemMarketInfo) => {
+      console.log(itemMarketInfo);
+      SetMarketInfo(itemMarketInfo[0]);
+    });
   }
 
   function parseMillisecondsIntoReadableTime(milliseconds: number): string {
@@ -212,19 +258,15 @@ export default function ItemPage() {
     );
   }
 
-  function CreateMarketInfoTable(marketInfo: CurrentlyShownView | undefined) {
-    if (
-      marketInfo == undefined ||
-      marketInfo.listings == undefined ||
-      marketInfo.recentHistory == undefined
-    )
+  function CreateMarketInfoTable(marketInfo: ItemMarketInfo | undefined) {
+    if (marketInfo == undefined || marketInfo.listings == undefined)
       return <table></table>;
     const quantForSale = marketInfo.listings.reduce(
       (sum: number, currentValue) => sum + currentValue.quantity,
       0
     );
-    let lastWeekSales = 0;
-    let lastWeekValue = 0;
+    let lastWeekUnitVolume = 0;
+    let lastWeekGilVolume = 0;
     let lastWeekAvgTimeOnMarket: Array<{
       totalTimeOnMarket: number;
       numSales: number;
@@ -247,8 +289,8 @@ export default function ItemPage() {
     //console.log(lastWeek);
 
     lastWeekListings.forEach((sale) => {
-      lastWeekSales += sale.quantity;
-      lastWeekValue += sale.pricePerUnit * sale.quantity;
+      lastWeekUnitVolume += sale.quantity;
+      lastWeekGilVolume += sale.pricePerUnit * sale.quantity;
       const adjustedTime = sale.timestamp * 1000;
       // const saleDate = new Date(adjustedTime);
       // const daysAgo = new Date(now.getTime() - adjustedTime).getDate() - 1;
@@ -276,7 +318,7 @@ export default function ItemPage() {
             <th>Standard Deviation</th>
             <th>Weekly Sales</th>
             <th>Standard Deviation</th>
-            <th>Trading Volume</th>
+            <th>Gil Trading Volume</th>
             <th>Supply Ratio</th>
             <th>Average Hours on Market</th>
           </tr>
@@ -295,17 +337,17 @@ export default function ItemPage() {
                 quantForSale
               ).toFixed(2)}
             </td>
-            <td>{lastWeekSales.toLocaleString()}</td>
+            <td>{lastWeekUnitVolume.toLocaleString()}</td>
             <td>
               {getStandardDeviation(
                 lastWeekListings.map(
                   (listing) => listing.pricePerUnit * listing.quantity
                 ),
-                lastWeekSales
+                lastWeekUnitVolume
               ).toFixed(2)}
             </td>
-            <td>{lastWeekValue.toLocaleString()}</td>
-            <td>{(quantForSale / lastWeekSales).toFixed(2)}</td>
+            <td>{lastWeekGilVolume.toLocaleString()}</td>
+            <td>{(quantForSale / lastWeekUnitVolume).toFixed(2)}</td>
             <td>{parseMillisecondsIntoReadableTime(daysAgo)}</td>
           </tr>
         </tbody>
@@ -490,7 +532,7 @@ export default function ItemPage() {
             </button>
             <button
               className="w-1/2 bg-blue-400 rounded-md p-2 text-center"
-              onClick={() => GetItemMarketData(recipe.result)}
+              onClick={() => GetItemMarketData(recipe.result.ID)}
             >
               Get Item Price
             </button>
@@ -498,7 +540,7 @@ export default function ItemPage() {
           <br />
           <div className="mb-5 mt-10">
             <h2 className="mb-2 text-2xl">
-              {recipe.ID > -1 ? recipe.result.name : ""}
+              {item != undefined ? item.Name : ""}
             </h2>
             {CreateMarketInfoTable(marketInfo)}
           </div>

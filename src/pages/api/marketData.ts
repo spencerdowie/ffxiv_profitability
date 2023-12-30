@@ -1,6 +1,7 @@
 import { NextApiRequest, NextApiResponse } from "next";
 
-const MarketUrlBase = "https://universalis.app/api/v2/";
+const MarketUrlBase = "https://universalis.app/api/v2";
+const region = "Behemoth";
 
 /*fields is passed to universalis api
 getHistory will replace recentHistory will full sale history*/
@@ -16,21 +17,22 @@ export default async function handler(
     const getHistory = (req.query.getHistory as string) === "true";
     const multi = itemStr.includes(",");
 
-    console.log(fieldsStr);
-    console.log(getHistory);
-
     const itemIDs = itemStr.split(",");
+
+    // console.log(itemIDs);
+    // console.log(fieldsStr);
+    // console.log(getHistory);
 
     //const fieldStr = fields;
     //res.status(200).json(MarketUrlBase + `Behemoth/${itemStr}${fieldStr}`);
 
-    await fetch(MarketUrlBase + `Behemoth/${itemStr}${fieldsStr}`)
+    await fetch(`${MarketUrlBase}/${region}/${itemStr}${fieldsStr}`)
       .then((res) => res.json())
       .then((data) => {
         //console.log(data);
 
         if (getHistory) {
-          fetch(`${MarketUrlBase}history/Behemoth/${itemStr}`)
+          return fetch(`${MarketUrlBase}/history/${region}/${itemStr}`)
             .then((res) => res.json())
             .then((history) => {
               // console.log(
@@ -38,7 +40,7 @@ export default async function handler(
               //     (ID) => !history.unresolvedItems.includes(parseInt(ID))
               //   )
               // );
-              // console.log(history.unresolvedItems);
+              //console.log(history.unresolvedItems);
               if (itemIDs.length > 1) {
                 itemIDs
                   .filter(
@@ -53,6 +55,7 @@ export default async function handler(
               } else {
                 data.recentHistory = history.entries;
               }
+              //console.log(data);
               return res.status(200).json(data);
             });
         } else {

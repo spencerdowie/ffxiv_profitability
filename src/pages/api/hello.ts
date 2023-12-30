@@ -5,19 +5,25 @@ import { parse } from "csv-parse";
 import recipes from "../../../data/Recipe.json";
 const dataPath = path.join(process.cwd(), "data");
 
-// const headers =
-//   "ID,Number,CraftType,RecipeLevelTable,Item{Result},Amount{Result},Item{Ingredient}[0],Amount{Ingredient}[0],Item{Ingredient}[1],Amount{Ingredient}[1],Item{Ingredient}[2],Amount{Ingredient}[2],Item{Ingredient}[3],Amount{Ingredient}[3],Item{Ingredient}[4],Amount{Ingredient}[4],Item{Ingredient}[5],Amount{Ingredient}[5],Item{Ingredient}[6],Amount{Ingredient}[6],Item{Ingredient}[7],Amount{Ingredient}[7],Item{Ingredient}[8],Amount{Ingredient}[8],Item{Ingredient}[9],Amount{Ingredient}[9],RecipeNotebookList,IsSecondary,MaterialQualityFactor,DifficultyFactor,QualityFactor,DurabilityFactor,RequiredQuality,RequiredCraftsmanship,RequiredControl,QuickSynthCraftsmanship,QuickSynthControl,SecretRecipeBook,Quest,CanQuickSynth,CanHq,ExpRewarded,Status{Required},Item{Required},IsSpecializationRequired,IsExpert,,,PatchNumber";
-type Recipe = {
-  resultItem: number;
-  resultAmount: number;
-  ingredients: Array<{ item: number; amount: number }>;
-};
+const headers =
+  "ID,Name";
+
+// type CompanyCraftProcess = {
+//   supplyItems: Array<{
+//     supplyItem: number;
+//     setQuantity: number;
+//     setsRequired: number;
+//   }>;
+// };
 // let dataArray: Array<any>;
-// fs.readFile(dataPath + "/Recipe.csv", "utf8").then((raw) => {
+// fs.readFile(dataPath + "/CompanyCraftType.csv", "utf8").then((raw) => {
+//   //console.log(raw);
 //   parse(
 //     raw,
 //     { from_line: 4, columns: headers.split(",") },
-//     (err, inData: Array<any>) => (dataArray = inData)
+//     (err, inData: Array<any>) => {
+//       dataArray = inData;
+//     }
 //   );
 // });
 
@@ -25,8 +31,8 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
-  // //console.log(dataArray?.at(0));
-  //createReverseRecipeJSON();
+  // console.log(dataArray?.at(17));
+  // CreateCompanyCraftSequenceJSON();
   res.status(200).json({ Error: "Nothing here" });
 }
 
@@ -84,4 +90,22 @@ export default async function handler(
 //   console.log(jsonData[43]);
 
 //   fs.writeFile(dataPath + "/Recipe.json", JSON.stringify(jsonData));
+// }
+
+// function CreateCompanyCraftSequenceJSON() {
+//   let jsonData: { [ID: number]: string } = {};
+//   if (dataArray == undefined) return;
+//   dataArray.forEach((craftType) => {
+//     {
+//       if (craftType.ID > 0) {
+//         jsonData[craftType.ID] = craftType.Name;
+//       }
+//     }
+//   });
+//   console.log(jsonData[17]);
+
+//   fs.writeFile(
+//     dataPath + "/CompanyCraftType.json",
+//     JSON.stringify(jsonData)
+//   );
 // }

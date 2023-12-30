@@ -1,0 +1,1115 @@
+{
+  "1": {
+    "resultItem": 9462,
+    "category": 1,
+    "craftType": 1,
+    "draft": -1,
+    "craftParts": [1]
+  },
+  "2": {
+    "resultItem": 9463,
+    "category": 1,
+    "craftType": 1,
+    "draft": 14,
+    "craftParts": [2]
+  },
+  "3": {
+    "resultItem": 9464,
+    "category": 1,
+    "craftType": 1,
+    "draft": 16,
+    "craftParts": [3]
+  },
+  "4": {
+    "resultItem": 9465,
+    "category": 1,
+    "craftType": 1,
+    "draft": 18,
+    "craftParts": [4]
+  },
+  "5": {
+    "resultItem": 9466,
+    "category": 1,
+    "craftType": 1,
+    "draft": 19,
+    "craftParts": [5]
+  },
+  "6": {
+    "resultItem": 9653,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [100]
+  },
+  "7": {
+    "resultItem": 9654,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [101]
+  },
+  "8": {
+    "resultItem": 9655,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [102]
+  },
+  "9": {
+    "resultItem": 9656,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [103]
+  },
+  "10": {
+    "resultItem": 9657,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [104]
+  },
+  "11": {
+    "resultItem": 9658,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [105]
+  },
+  "12": {
+    "resultItem": 12215,
+    "category": 6,
+    "craftType": 2,
+    "draft": 8,
+    "craftParts": [116]
+  },
+  "13": {
+    "resultItem": 9659,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [106]
+  },
+  "14": {
+    "resultItem": 9660,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [107]
+  },
+  "15": {
+    "resultItem": 9661,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [108]
+  },
+  "16": {
+    "resultItem": 9662,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [109]
+  },
+  "17": {
+    "resultItem": 9663,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [110]
+  },
+  "18": {
+    "resultItem": 9664,
+    "category": 6,
+    "craftType": 2,
+    "draft": 9,
+    "craftParts": [111]
+  },
+  "19": {
+    "resultItem": 9665,
+    "category": 6,
+    "craftType": 2,
+    "draft": 10,
+    "craftParts": [112]
+  },
+  "20": {
+    "resultItem": 9666,
+    "category": 6,
+    "craftType": 2,
+    "draft": 10,
+    "craftParts": [113]
+  },
+  "21": {
+    "resultItem": 9667,
+    "category": 6,
+    "craftType": 2,
+    "draft": 10,
+    "craftParts": [114]
+  },
+  "22": {
+    "resultItem": 9668,
+    "category": 6,
+    "craftType": 2,
+    "draft": 10,
+    "craftParts": [115]
+  },
+  "23": {
+    "resultItem": 9669,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [200]
+  },
+  "24": {
+    "resultItem": 9670,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [201]
+  },
+  "25": {
+    "resultItem": 9671,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [202]
+  },
+  "26": {
+    "resultItem": 9672,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [203]
+  },
+  "27": {
+    "resultItem": 9673,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [204]
+  },
+  "28": {
+    "resultItem": 9674,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [205]
+  },
+  "29": {
+    "resultItem": 12216,
+    "category": 6,
+    "craftType": 2,
+    "draft": 11,
+    "craftParts": [216]
+  },
+  "31": {
+    "resultItem": 9676,
+    "category": 6,
+    "craftType": 2,
+    "draft": 12,
+    "craftParts": [207]
+  },
+  "32": {
+    "resultItem": 9677,
+    "category": 6,
+    "craftType": 2,
+    "draft": 12,
+    "craftParts": [208]
+  },
+  "33": {
+    "resultItem": 9678,
+    "category": 6,
+    "craftType": 2,
+    "draft": 12,
+    "craftParts": [209]
+  },
+  "34": {
+    "resultItem": 9679,
+    "category": 6,
+    "craftType": 2,
+    "draft": 12,
+    "craftParts": [210]
+  },
+  "35": {
+    "resultItem": 9680,
+    "category": 6,
+    "craftType": 2,
+    "draft": 12,
+    "craftParts": [211]
+  },
+  "36": {
+    "resultItem": 9681,
+    "category": 6,
+    "craftType": 2,
+    "draft": 13,
+    "craftParts": [212]
+  },
+  "37": {
+    "resultItem": 9682,
+    "category": 6,
+    "craftType": 2,
+    "draft": 13,
+    "craftParts": [213]
+  },
+  "39": {
+    "resultItem": 9684,
+    "category": 6,
+    "craftType": 2,
+    "draft": 13,
+    "craftParts": [215]
+  },
+  "500": {
+    "resultItem": 10156,
+    "category": 5,
+    "craftType": 3,
+    "draft": -1,
+    "craftParts": [300]
+  },
+  "501": {
+    "resultItem": 10157,
+    "category": 5,
+    "craftType": 3,
+    "draft": 0,
+    "craftParts": [301]
+  },
+  "502": {
+    "resultItem": 10158,
+    "category": 5,
+    "craftType": 3,
+    "draft": 1,
+    "craftParts": [302]
+  },
+  "503": {
+    "resultItem": 10159,
+    "category": 5,
+    "craftType": 3,
+    "draft": 2,
+    "craftParts": [303]
+  },
+  "504": {
+    "resultItem": 10160,
+    "category": 5,
+    "craftType": 3,
+    "draft": 3,
+    "craftParts": [304]
+  },
+  "505": {
+    "resultItem": 10161,
+    "category": 5,
+    "craftType": 3,
+    "draft": 4,
+    "craftParts": [305]
+  },
+  "506": {
+    "resultItem": 10162,
+    "category": 5,
+    "craftType": 4,
+    "draft": -1,
+    "craftParts": [400]
+  },
+  "507": {
+    "resultItem": 10163,
+    "category": 5,
+    "craftType": 4,
+    "draft": 0,
+    "craftParts": [401]
+  },
+  "508": {
+    "resultItem": 10164,
+    "category": 5,
+    "craftType": 4,
+    "draft": 1,
+    "craftParts": [402]
+  },
+  "509": {
+    "resultItem": 10165,
+    "category": 5,
+    "craftType": 4,
+    "draft": 2,
+    "craftParts": [403]
+  },
+  "510": {
+    "resultItem": 10166,
+    "category": 5,
+    "craftType": 4,
+    "draft": 3,
+    "craftParts": [404]
+  },
+  "511": {
+    "resultItem": 10167,
+    "category": 5,
+    "craftType": 4,
+    "draft": 4,
+    "craftParts": [405]
+  },
+  "512": {
+    "resultItem": 10168,
+    "category": 5,
+    "craftType": 5,
+    "draft": -1,
+    "craftParts": [500]
+  },
+  "513": {
+    "resultItem": 10169,
+    "category": 5,
+    "craftType": 5,
+    "draft": 0,
+    "craftParts": [501]
+  },
+  "514": {
+    "resultItem": 10170,
+    "category": 5,
+    "craftType": 5,
+    "draft": 1,
+    "craftParts": [502]
+  },
+  "515": {
+    "resultItem": 10171,
+    "category": 5,
+    "craftType": 5,
+    "draft": 2,
+    "craftParts": [503]
+  },
+  "516": {
+    "resultItem": 10172,
+    "category": 5,
+    "craftType": 5,
+    "draft": 3,
+    "craftParts": [504]
+  },
+  "517": {
+    "resultItem": 10173,
+    "category": 5,
+    "craftType": 5,
+    "draft": 4,
+    "craftParts": [505]
+  },
+  "518": {
+    "resultItem": 10174,
+    "category": 5,
+    "craftType": 6,
+    "draft": -1,
+    "craftParts": [600]
+  },
+  "519": {
+    "resultItem": 10175,
+    "category": 5,
+    "craftType": 6,
+    "draft": 0,
+    "craftParts": [601]
+  },
+  "520": {
+    "resultItem": 10176,
+    "category": 5,
+    "craftType": 6,
+    "draft": 1,
+    "craftParts": [602]
+  },
+  "521": {
+    "resultItem": 10177,
+    "category": 5,
+    "craftType": 6,
+    "draft": 2,
+    "craftParts": [603]
+  },
+  "522": {
+    "resultItem": 10178,
+    "category": 5,
+    "craftType": 6,
+    "draft": 3,
+    "craftParts": [604]
+  },
+  "523": {
+    "resultItem": 10179,
+    "category": 5,
+    "craftType": 6,
+    "draft": 4,
+    "craftParts": [605]
+  },
+  "524": {
+    "resultItem": 14003,
+    "category": 5,
+    "craftType": 3,
+    "draft": 17,
+    "craftParts": [306]
+  },
+  "525": {
+    "resultItem": 14004,
+    "category": 5,
+    "craftType": 4,
+    "draft": 17,
+    "craftParts": [406]
+  },
+  "526": {
+    "resultItem": 14005,
+    "category": 5,
+    "craftType": 5,
+    "draft": 17,
+    "craftParts": [506]
+  },
+  "527": {
+    "resultItem": 14006,
+    "category": 5,
+    "craftType": 6,
+    "draft": 17,
+    "craftParts": [606]
+  },
+  "528": {
+    "resultItem": 21794,
+    "category": 7,
+    "craftType": 16,
+    "draft": 24,
+    "craftParts": [1500]
+  },
+  "529": {
+    "resultItem": 21795,
+    "category": 7,
+    "craftType": 17,
+    "draft": 24,
+    "craftParts": [1600]
+  },
+  "530": {
+    "resultItem": 21792,
+    "category": 7,
+    "craftType": 18,
+    "draft": 24,
+    "craftParts": [1700]
+  },
+  "531": {
+    "resultItem": 21793,
+    "category": 7,
+    "craftType": 19,
+    "draft": 24,
+    "craftParts": [1800]
+  },
+  "532": {
+    "resultItem": 21798,
+    "category": 7,
+    "craftType": 16,
+    "draft": 25,
+    "craftParts": [1501]
+  },
+  "533": {
+    "resultItem": 21799,
+    "category": 7,
+    "craftType": 17,
+    "draft": 25,
+    "craftParts": [1601]
+  },
+  "534": {
+    "resultItem": 21796,
+    "category": 7,
+    "craftType": 18,
+    "draft": 25,
+    "craftParts": [1701]
+  },
+  "535": {
+    "resultItem": 21797,
+    "category": 7,
+    "craftType": 19,
+    "draft": 25,
+    "craftParts": [1801]
+  },
+  "536": {
+    "resultItem": 22528,
+    "category": 7,
+    "craftType": 16,
+    "draft": 26,
+    "craftParts": [1502]
+  },
+  "537": {
+    "resultItem": 22529,
+    "category": 7,
+    "craftType": 17,
+    "draft": 26,
+    "craftParts": [1602]
+  },
+  "538": {
+    "resultItem": 22526,
+    "category": 7,
+    "craftType": 18,
+    "draft": 26,
+    "craftParts": [1702]
+  },
+  "539": {
+    "resultItem": 22527,
+    "category": 7,
+    "craftType": 19,
+    "draft": 26,
+    "craftParts": [1802]
+  },
+  "540": {
+    "resultItem": 23905,
+    "category": 7,
+    "craftType": 16,
+    "draft": 28,
+    "craftParts": [1503]
+  },
+  "541": {
+    "resultItem": 23906,
+    "category": 7,
+    "craftType": 17,
+    "draft": 28,
+    "craftParts": [1603]
+  },
+  "542": {
+    "resultItem": 23903,
+    "category": 7,
+    "craftType": 18,
+    "draft": 28,
+    "craftParts": [1703]
+  },
+  "543": {
+    "resultItem": 23904,
+    "category": 7,
+    "craftType": 19,
+    "draft": 28,
+    "craftParts": [1803]
+  },
+  "544": {
+    "resultItem": 24346,
+    "category": 7,
+    "craftType": 16,
+    "draft": 29,
+    "craftParts": [1504]
+  },
+  "545": {
+    "resultItem": 24347,
+    "category": 7,
+    "craftType": 17,
+    "draft": 29,
+    "craftParts": [1604]
+  },
+  "546": {
+    "resultItem": 24344,
+    "category": 7,
+    "craftType": 18,
+    "draft": 29,
+    "craftParts": [1704]
+  },
+  "547": {
+    "resultItem": 24345,
+    "category": 7,
+    "craftType": 19,
+    "draft": 29,
+    "craftParts": [1804]
+  },
+  "548": {
+    "resultItem": 24350,
+    "category": 7,
+    "craftType": 16,
+    "draft": 30,
+    "craftParts": [1505]
+  },
+  "549": {
+    "resultItem": 24351,
+    "category": 7,
+    "craftType": 17,
+    "draft": 30,
+    "craftParts": [1605]
+  },
+  "550": {
+    "resultItem": 24348,
+    "category": 7,
+    "craftType": 18,
+    "draft": 30,
+    "craftParts": [1705]
+  },
+  "551": {
+    "resultItem": 24349,
+    "category": 7,
+    "craftType": 19,
+    "draft": 30,
+    "craftParts": [1805]
+  },
+  "552": {
+    "resultItem": 24354,
+    "category": 7,
+    "craftType": 16,
+    "draft": 30,
+    "craftParts": [1506]
+  },
+  "553": {
+    "resultItem": 24355,
+    "category": 7,
+    "craftType": 17,
+    "draft": 30,
+    "craftParts": [1606]
+  },
+  "554": {
+    "resultItem": 24352,
+    "category": 7,
+    "craftType": 18,
+    "draft": 30,
+    "craftParts": [1706]
+  },
+  "555": {
+    "resultItem": 24353,
+    "category": 7,
+    "craftType": 19,
+    "draft": 30,
+    "craftParts": [1806]
+  },
+  "556": {
+    "resultItem": 24358,
+    "category": 7,
+    "craftType": 16,
+    "draft": 30,
+    "craftParts": [1507]
+  },
+  "557": {
+    "resultItem": 24359,
+    "category": 7,
+    "craftType": 17,
+    "draft": 30,
+    "craftParts": [1607]
+  },
+  "558": {
+    "resultItem": 24356,
+    "category": 7,
+    "craftType": 18,
+    "draft": 30,
+    "craftParts": [1707]
+  },
+  "559": {
+    "resultItem": 24357,
+    "category": 7,
+    "craftType": 19,
+    "draft": 30,
+    "craftParts": [1807]
+  },
+  "560": {
+    "resultItem": 24362,
+    "category": 7,
+    "craftType": 16,
+    "draft": 30,
+    "craftParts": [1508]
+  },
+  "561": {
+    "resultItem": 24363,
+    "category": 7,
+    "craftType": 17,
+    "draft": 30,
+    "craftParts": [1608]
+  },
+  "562": {
+    "resultItem": 24360,
+    "category": 7,
+    "craftType": 18,
+    "draft": 30,
+    "craftParts": [1708]
+  },
+  "563": {
+    "resultItem": 24361,
+    "category": 7,
+    "craftType": 19,
+    "draft": 30,
+    "craftParts": [1808]
+  },
+  "564": {
+    "resultItem": 24366,
+    "category": 7,
+    "craftType": 16,
+    "draft": 30,
+    "craftParts": [1509]
+  },
+  "565": {
+    "resultItem": 24367,
+    "category": 7,
+    "craftType": 17,
+    "draft": 30,
+    "craftParts": [1609]
+  },
+  "566": {
+    "resultItem": 24364,
+    "category": 7,
+    "craftType": 18,
+    "draft": 30,
+    "craftParts": [1709]
+  },
+  "567": {
+    "resultItem": 24365,
+    "category": 7,
+    "craftType": 19,
+    "draft": 30,
+    "craftParts": [1809]
+  },
+  "1000": {
+    "resultItem": 10361,
+    "category": 2,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [700, 800, 900, 1000, 1103, 1202, 1302, 1400]
+  },
+  "1001": {
+    "resultItem": 10362,
+    "category": 3,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [701, 801, 900, 1000, 1103, 1202, 1302, 1400]
+  },
+  "1002": {
+    "resultItem": 10363,
+    "category": 4,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [702, 802, 900, 1000, 1103, 1202, 1302, 1400]
+  },
+  "1003": {
+    "resultItem": 10364,
+    "category": 2,
+    "craftType": 7,
+    "draft": 5,
+    "craftParts": [703, 803, 901, 1001, 1102, 1203, 1303, 1401]
+  },
+  "1004": {
+    "resultItem": 10365,
+    "category": 3,
+    "craftType": 7,
+    "draft": 5,
+    "craftParts": [704, 804, 901, 1001, 1102, 1203, 1303, 1401]
+  },
+  "1005": {
+    "resultItem": 10366,
+    "category": 4,
+    "craftType": 7,
+    "draft": 5,
+    "craftParts": [705, 805, 901, 1001, 1102, 1203, 1303, 1401]
+  },
+  "1006": {
+    "resultItem": 10367,
+    "category": 2,
+    "craftType": 7,
+    "draft": 6,
+    "craftParts": [706, 806, 902, 1002, 1101, 1201, 1301, 1402]
+  },
+  "1007": {
+    "resultItem": 10368,
+    "category": 3,
+    "craftType": 7,
+    "draft": 6,
+    "craftParts": [707, 807, 902, 1002, 1101, 1201, 1301, 1402]
+  },
+  "1008": {
+    "resultItem": 10369,
+    "category": 4,
+    "craftType": 7,
+    "draft": 6,
+    "craftParts": [708, 808, 902, 1002, 1101, 1201, 1301, 1402]
+  },
+  "1009": {
+    "resultItem": 10370,
+    "category": 2,
+    "craftType": 7,
+    "draft": 7,
+    "craftParts": [709, 809, 903, 1003, 1100, 1200, 1300, 1403]
+  },
+  "1010": {
+    "resultItem": 10371,
+    "category": 3,
+    "craftType": 7,
+    "draft": 7,
+    "craftParts": [710, 810, 903, 1003, 1100, 1200, 1300, 1403]
+  },
+  "1011": {
+    "resultItem": 10372,
+    "category": 4,
+    "craftType": 7,
+    "draft": 7,
+    "craftParts": [711, 811, 903, 1003, 1100, 1200, 1300, 1403]
+  },
+  "1012": {
+    "resultItem": 13092,
+    "category": 2,
+    "craftType": 7,
+    "draft": 15,
+    "craftParts": [712, 812, 904, 1004, 1104, 1204, 1304, 1404]
+  },
+  "1013": {
+    "resultItem": 13093,
+    "category": 3,
+    "craftType": 7,
+    "draft": 15,
+    "craftParts": [713, 813, 904, 1004, 1104, 1204, 1304, 1404]
+  },
+  "1014": {
+    "resultItem": 13094,
+    "category": 4,
+    "craftType": 7,
+    "draft": 15,
+    "craftParts": [714, 814, 904, 1004, 1104, 1204, 1304, 1404]
+  },
+  "1015": {
+    "resultItem": 15950,
+    "category": 2,
+    "craftType": 7,
+    "draft": 20,
+    "craftParts": [715, 815, 905, 1005, 1105, 1205, 1305, 1405]
+  },
+  "1016": {
+    "resultItem": 15951,
+    "category": 3,
+    "craftType": 7,
+    "draft": 20,
+    "craftParts": [716, 816, 905, 1005, 1105, 1205, 1305, 1405]
+  },
+  "1017": {
+    "resultItem": 15952,
+    "category": 4,
+    "craftType": 7,
+    "draft": 20,
+    "craftParts": [717, 817, 905, 1005, 1105, 1205, 1305, 1405]
+  },
+  "1018": {
+    "resultItem": 17004,
+    "category": 2,
+    "craftType": 7,
+    "draft": 21,
+    "craftParts": [718, 818, 906, 1006, 1106, 1206]
+  },
+  "1019": {
+    "resultItem": 17005,
+    "category": 3,
+    "craftType": 7,
+    "draft": 21,
+    "craftParts": [719, 819, 906, 1006, 1106, 1206]
+  },
+  "1020": {
+    "resultItem": 17006,
+    "category": 4,
+    "craftType": 7,
+    "draft": 21,
+    "craftParts": [720, 820, 906, 1006, 1106, 1206]
+  },
+  "1021": {
+    "resultItem": 19767,
+    "category": 2,
+    "craftType": 7,
+    "draft": 22,
+    "craftParts": [721, 821, 907, 1007, 1107, 1207]
+  },
+  "1022": {
+    "resultItem": 19768,
+    "category": 3,
+    "craftType": 7,
+    "draft": 22,
+    "craftParts": [722, 822, 907, 1007, 1107, 1207]
+  },
+  "1023": {
+    "resultItem": 19769,
+    "category": 4,
+    "craftType": 7,
+    "draft": 22,
+    "craftParts": [723, 823, 907, 1007, 1107, 1207]
+  },
+  "1024": {
+    "resultItem": 20723,
+    "category": 2,
+    "craftType": 7,
+    "draft": 23,
+    "craftParts": [724, 824, 908, 1008, 1108, 1208]
+  },
+  "1025": {
+    "resultItem": 20724,
+    "category": 3,
+    "craftType": 7,
+    "draft": 23,
+    "craftParts": [725, 825, 908, 1008, 1108, 1208]
+  },
+  "1026": {
+    "resultItem": 20725,
+    "category": 4,
+    "craftType": 7,
+    "draft": 23,
+    "craftParts": [726, 826, 908, 1008, 1108, 1208]
+  },
+  "1027": {
+    "resultItem": 22533,
+    "category": 2,
+    "craftType": 7,
+    "draft": 27,
+    "craftParts": [727, 827, 909, 1009, 1109, 1209]
+  },
+  "1028": {
+    "resultItem": 22534,
+    "category": 3,
+    "craftType": 7,
+    "draft": 27,
+    "craftParts": [728, 828, 909, 1009, 1109, 1209]
+  },
+  "1029": {
+    "resultItem": 22535,
+    "category": 4,
+    "craftType": 7,
+    "draft": 27,
+    "craftParts": [729, 829, 909, 1009, 1109, 1209]
+  },
+  "1030": {
+    "resultItem": 28172,
+    "category": 2,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [730, 830, 910, 1010, 1110, 1210]
+  },
+  "1031": {
+    "resultItem": 28173,
+    "category": 3,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [731, 831, 910, 1010, 1110, 1210]
+  },
+  "1032": {
+    "resultItem": 28174,
+    "category": 4,
+    "craftType": 7,
+    "draft": -1,
+    "craftParts": [732, 832, 910, 1010, 1110, 1210]
+  },
+  "1033": {
+    "resultItem": 28957,
+    "category": 2,
+    "craftType": 7,
+    "draft": 31,
+    "craftParts": [733, 833, 911, 1011, 1111, 1211]
+  },
+  "1034": {
+    "resultItem": 28958,
+    "category": 3,
+    "craftType": 7,
+    "draft": 31,
+    "craftParts": [734, 834, 911, 1011, 1111, 1211]
+  },
+  "1035": {
+    "resultItem": 28959,
+    "category": 4,
+    "craftType": 7,
+    "draft": 31,
+    "craftParts": [735, 835, 911, 1011, 1111, 1211]
+  },
+  "1036": {
+    "resultItem": 30375,
+    "category": 2,
+    "craftType": 7,
+    "draft": 32,
+    "craftParts": [736, 836, 912, 1012, 1112, 1212]
+  },
+  "1037": {
+    "resultItem": 30376,
+    "category": 3,
+    "craftType": 7,
+    "draft": 32,
+    "craftParts": [737, 837, 912, 1012, 1112, 1212]
+  },
+  "1038": {
+    "resultItem": 30377,
+    "category": 4,
+    "craftType": 7,
+    "draft": 32,
+    "craftParts": [738, 838, 912, 1012, 1112, 1212]
+  },
+  "1039": {
+    "resultItem": 32255,
+    "category": 2,
+    "craftType": 7,
+    "draft": 33,
+    "craftParts": [739, 839, 913, 1013, 1113, 1213]
+  },
+  "1040": {
+    "resultItem": 32256,
+    "category": 3,
+    "craftType": 7,
+    "draft": 33,
+    "craftParts": [740, 840, 913, 1013, 1113, 1213]
+  },
+  "1041": {
+    "resultItem": 32257,
+    "category": 4,
+    "craftType": 7,
+    "draft": 33,
+    "craftParts": [741, 841, 913, 1013, 1113, 1213]
+  },
+  "1042": {
+    "resultItem": 33245,
+    "category": 2,
+    "craftType": 7,
+    "draft": 34,
+    "craftParts": [742, 842, 914, 1014, 1114, 1214]
+  },
+  "1043": {
+    "resultItem": 33246,
+    "category": 3,
+    "craftType": 7,
+    "draft": 34,
+    "craftParts": [743, 843, 914, 1014, 1114, 1214]
+  },
+  "1044": {
+    "resultItem": 33247,
+    "category": 4,
+    "craftType": 7,
+    "draft": 34,
+    "craftParts": [744, 844, 914, 1014, 1114, 1214]
+  },
+  "1045": {
+    "resultItem": 35812,
+    "category": 2,
+    "craftType": 7,
+    "draft": 35,
+    "craftParts": [745, 845, 915, 1015, 1115, 1215]
+  },
+  "1046": {
+    "resultItem": 35813,
+    "category": 3,
+    "craftType": 7,
+    "draft": 35,
+    "craftParts": [746, 846, 915, 1015, 1115, 1215]
+  },
+  "1047": {
+    "resultItem": 35814,
+    "category": 4,
+    "craftType": 7,
+    "draft": 35,
+    "craftParts": [747, 847, 915, 1015, 1115, 1215]
+  },
+  "1048": {
+    "resultItem": 37344,
+    "category": 2,
+    "craftType": 7,
+    "draft": 36,
+    "craftParts": [748, 848, 916, 1016, 1116, 1216]
+  },
+  "1049": {
+    "resultItem": 37345,
+    "category": 3,
+    "craftType": 7,
+    "draft": 36,
+    "craftParts": [749, 849, 916, 1016, 1116, 1216]
+  },
+  "1050": {
+    "resultItem": 37346,
+    "category": 4,
+    "craftType": 7,
+    "draft": 36,
+    "craftParts": [750, 850, 916, 1016, 1116, 1216]
+  },
+  "1051": {
+    "resultItem": 38953,
+    "category": 2,
+    "craftType": 7,
+    "draft": 37,
+    "craftParts": [751, 851, 917, 1017, 1117, 1217]
+  },
+  "1052": {
+    "resultItem": 38954,
+    "category": 3,
+    "craftType": 7,
+    "draft": 37,
+    "craftParts": [752, 852, 917, 1017, 1117, 1217]
+  },
+  "1053": {
+    "resultItem": 38955,
+    "category": 4,
+    "craftType": 7,
+    "draft": 37,
+    "craftParts": [753, 853, 917, 1017, 1117, 1217]
+  }
+}

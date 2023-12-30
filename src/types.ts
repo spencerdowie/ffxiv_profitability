@@ -21,6 +21,25 @@ export type Recipe = {
 //   resultAmount: number;
 //   ingredients: Array<{ item: number; amount: number }>;
 // };
+export type CompanyCraftSequence = {
+  resultItem: number;
+  category: number;
+  craftType: number;
+  draft: number;
+  craftParts: Array<number>;
+};
+export type CompanyCraftPart = {
+  craftType: number;
+  craftProcess: Array<number>;
+};
+export type CompanyCraftProcess = {
+  supplyItems: Array<SupplyItem>;
+};
+export type SupplyItem = {
+  supplyItem: number;
+  setQuantity: number;
+  setsRequired: number;
+};
 
 export enum MarketFields {}
 
@@ -42,8 +61,8 @@ export type ItemMarketInfo = {
   listings?: Array<ListingView>;
   recentHistory: Array<SaleView>;
   quantForSale: number;
-  lastWeekSales: number;
-  lastWeekValue: number;
+  lastWeekUnitVolume: number;
+  lastWeekGilVolume: number;
 };
 
 //Universalis Types

@@ -41,7 +41,7 @@ export default function Inventory() {
   }
 
   return (
-    <div id="Inventory" className="h-full w-full p-14 grid grid-cols-2">
+    <div id="inventory" className="h-full w-full p-14 grid grid-cols-2">
       <form onSubmit={handleSubmit} className="cols-span-1 space-y-4 mr-16">
         <h2>Inventory</h2>
         <textarea className="h-3/4 w-full resize-none" name={"inventoryText"} />
@@ -61,12 +61,12 @@ export default function Inventory() {
               col1: item.itemID,
               col2: item.name,
               col3: item.quantForSale,
-              col4: item.quantForSale / item.lastWeekSales,
+              col4: item.quantForSale / item.lastWeekUnitVolume,
               col5: item.minPrice,
               col6: item.averagePrice,
               col7: item.currentAveragePrice,
-              col8: item.lastWeekSales,
-              col9: item.lastWeekValue,
+              col8: item.lastWeekUnitVolume,
+              col9: item.lastWeekGilVolume,
             };
           })}
           columns={columns}

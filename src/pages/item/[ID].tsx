@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import dynamic from "next/dynamic";
@@ -17,6 +17,7 @@ import { GetMarketData, GetItemName } from "@/utils/marketDataHelpers";
 import recipes from "../../../data/Recipe.json";
 import recipeLookup from "../../../data/RecipeLookup.json";
 import reverseRecipeLookup from "../../../data/ReverseRecipeLookup.json";
+import MarketInfoTable from "@/components/marketInfoTable";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
@@ -29,6 +30,7 @@ const IronIngot = 5057;
 
 export default function ItemPage() {
   const router = useRouter();
+  const [itemID, _setItemID] = useState<number>(-1);
   const [item, _setItem] = useState<{ ID: string; Name: string }>();
   const [recipe, _setRecipe] = useState<Recipe>({} as Recipe);
   const [marketInfo, SetMarketInfo] = useState<ItemMarketInfo>();
@@ -36,9 +38,12 @@ export default function ItemPage() {
   useEffect(() => {
     const ID = router.query.ID as string;
     if (ID != undefined) {
+      _setItemID(parseInt(ID));
       _setItem({ ID: ID, Name: GetItemName(parseInt(ID)) });
       //console.log(ID);
-      SetRecipe(recipes[recipeLookup[ID as keyof {}][0]["recipe"]]);
+      let recipeExists = recipeLookup[ID as keyof {}] != undefined;
+      if (recipeExists)
+        SetRecipe(recipes[recipeLookup[ID as keyof {}][0]["recipe"]]);
       // fetch("/api/recipe/" + ID).then((res) => {
       //   if (res.ok) {
       //     res.json().then((data) => {
@@ -164,7 +169,7 @@ export default function ItemPage() {
     return newRecipe;
   }
 
-  function CreateTableRecipe(recipe: Recipe) {
+  function CreateTableRecipe() {
     //console.log(recipe);
     if (recipe.ingredients == undefined) return null;
 
@@ -229,130 +234,6 @@ export default function ItemPage() {
       console.log(itemMarketInfo);
       SetMarketInfo(itemMarketInfo[0]);
     });
-  }
-
-  function parseMillisecondsIntoReadableTime(milliseconds: number): string {
-    //Get hours from milliseconds
-    var hours = milliseconds / (1000 * 60 * 60);
-    var absoluteHours = Math.floor(hours);
-    var h = absoluteHours > 9 ? absoluteHours : "0" + absoluteHours;
-
-    //Get remainder from hours and convert to minutes
-    var minutes = (hours - absoluteHours) * 60;
-    var absoluteMinutes = Math.floor(minutes);
-    var m = absoluteMinutes > 9 ? absoluteMinutes : "0" + absoluteMinutes;
-
-    //Get remainder from minutes and convert to seconds
-    var seconds = (minutes - absoluteMinutes) * 60;
-    var absoluteSeconds = Math.floor(seconds);
-    var s = absoluteSeconds > 9 ? absoluteSeconds : "0" + absoluteSeconds;
-
-    return h + "h " + m + "m " + s + "s";
-  }
-
-  function getStandardDeviation(array: Array<number>, quatity: number) {
-    const n = quatity;
-    const mean = array.reduce((a, b) => a + b) / n;
-    return Math.sqrt(
-      array.map((x) => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n
-    );
-  }
-
-  function CreateMarketInfoTable(marketInfo: ItemMarketInfo | undefined) {
-    if (marketInfo == undefined || marketInfo.listings == undefined)
-      return <table></table>;
-    const quantForSale = marketInfo.listings.reduce(
-      (sum: number, currentValue) => sum + currentValue.quantity,
-      0
-    );
-    let lastWeekUnitVolume = 0;
-    let lastWeekGilVolume = 0;
-    let lastWeekAvgTimeOnMarket: Array<{
-      totalTimeOnMarket: number;
-      numSales: number;
-    }> = Array(7).fill({
-      totalTimeOnMarket: 0,
-      numSales: 0,
-    });
-    const now = new Date(Date.now());
-    const lastWeek = new Date(
-      now.getFullYear(),
-      now.getMonth(),
-      now.getDate() - 7
-    );
-
-    const lastWeekListings = marketInfo.recentHistory.filter((sale) => {
-      const adjustedTime = sale.timestamp * 1000;
-      return adjustedTime > lastWeek.getTime();
-    });
-
-    //console.log(lastWeek);
-
-    lastWeekListings.forEach((sale) => {
-      lastWeekUnitVolume += sale.quantity;
-      lastWeekGilVolume += sale.pricePerUnit * sale.quantity;
-      const adjustedTime = sale.timestamp * 1000;
-      // const saleDate = new Date(adjustedTime);
-      // const daysAgo = new Date(now.getTime() - adjustedTime).getDate() - 1;
-      // lastWeekAvgTimeOnMarket[daysAgo].totalTimeOnMarket +=
-      //   lastWeekAvgTimeOnMarket[daysAgo].numSales++;
-      // //console.log(`Sale Date: ${saleDate} = Days: ${daysAgo}`);
-    });
-
-    const avgSecOnMarket =
-      marketInfo.listings.reduce(
-        (timeOnMarket: number, currentValue) =>
-          timeOnMarket + currentValue.lastReviewTime * 1000,
-        0
-      ) / marketInfo.listings.length;
-    const daysAgo = now.getTime() - avgSecOnMarket;
-
-    return (
-      <table className="p-20 border-2 bg-gray-500">
-        <thead>
-          <tr className="p-20 border-2">
-            <th>Quant. for Sale</th>
-            <th>Lowest Price</th>
-            <th>Avg Sale Price</th>
-            <th>Avg Listing Price</th>
-            <th>Standard Deviation</th>
-            <th>Weekly Sales</th>
-            <th>Standard Deviation</th>
-            <th>Gil Trading Volume</th>
-            <th>Supply Ratio</th>
-            <th>Average Hours on Market</th>
-          </tr>
-        </thead>
-        <tbody className="m-20">
-          <tr className="text-center">
-            <td>{quantForSale.toLocaleString()}</td>
-            <td>{marketInfo.minPrice.toLocaleString()}</td>
-            <td>{marketInfo.averagePrice.toFixed(2).toLocaleString()}</td>
-            <td>
-              {marketInfo.currentAveragePrice.toFixed(2).toLocaleString()}
-            </td>
-            <td>
-              {getStandardDeviation(
-                marketInfo.listings.map((listing) => listing.total),
-                quantForSale
-              ).toFixed(2)}
-            </td>
-            <td>{lastWeekUnitVolume.toLocaleString()}</td>
-            <td>
-              {getStandardDeviation(
-                lastWeekListings.map(
-                  (listing) => listing.pricePerUnit * listing.quantity
-                ),
-                lastWeekUnitVolume
-              ).toFixed(2)}
-            </td>
-            <td>{lastWeekGilVolume.toLocaleString()}</td>
-            <td>{(quantForSale / lastWeekUnitVolume).toFixed(2)}</td>
-            <td>{parseMillisecondsIntoReadableTime(daysAgo)}</td>
-          </tr>
-        </tbody>
-      </table>
-    );
   }
 
   function CreateProfitInfo() {
@@ -519,6 +400,23 @@ export default function ItemPage() {
     );
   }
 
+  function CreateUsesList() {
+    if (item == undefined) return <div />;
+
+    const usedIn: Array<number> = reverseRecipeLookup[item.ID as keyof {}];
+    if (usedIn == undefined) return <div />;
+
+    return (
+      <ul className="h-96 mt-14 overflow-y-auto bg-gray-500">
+        {usedIn.map((recipe) => (
+          <li key={recipe}>
+            <Link href={recipe.toString()}>{GetItemName(recipe)}</Link>
+          </li>
+        ))}
+      </ul>
+    );
+  }
+
   return (
     <div className="App h-screen w-screen">
       <div className="grid grid-cols-10">
@@ -532,7 +430,7 @@ export default function ItemPage() {
             </button>
             <button
               className="w-1/2 bg-blue-400 rounded-md p-2 text-center"
-              onClick={() => GetItemMarketData(recipe.result.ID)}
+              onClick={() => GetItemMarketData(itemID)}
             >
               Get Item Price
             </button>
@@ -542,31 +440,18 @@ export default function ItemPage() {
             <h2 className="mb-2 text-2xl">
               {item != undefined ? item.Name : ""}
             </h2>
-            {CreateMarketInfoTable(marketInfo)}
+            {marketInfo && <MarketInfoTable marketInfo={marketInfo} />}
           </div>
           <br />
           <div className="mb-5 mt-10">
-            {/* <Plot
-              data={[
-                {
-                  x: [1, 2, 3],
-                  y: [2, 6, 3],
-                  type: "scatter",
-                  mode: "lines+markers",
-                  marker: { color: "red" },
-                },
-                { type: "bar", x: [1, 2, 3], y: [2, 5, 3] },
-              ]}
-              layout={{ width: 600, height: 250, title: "A Fancy Plot" }}
-              config={{ displayModeBar: false }}
-            /> */}
             {CreateHistoryChart(marketInfo?.recentHistory)}
           </div>
         </div>
         <div className="col-span-1" />
         <div className="col-span-5 px-20 py-10">
-          {CreateTableRecipe(recipe)}
+          {CreateTableRecipe()}
           {CreateProfitInfo()}
+          {CreateUsesList()}
         </div>
       </div>
     </div>

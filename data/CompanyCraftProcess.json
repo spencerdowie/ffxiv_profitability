@@ -1,0 +1,4942 @@
+{
+  "1": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "2": {
+    "supplyItems": [
+      { "supplyItem": 9, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 216, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 630, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "3": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 337, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 412, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "4": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 649, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "5": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 650, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "6": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 651, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "50": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "51": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "52": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 337, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 419, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "53": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 652, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "54": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 653, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "55": {
+    "supplyItems": [
+      { "supplyItem": 340, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 654, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 866, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 854, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "100": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "101": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 646, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "102": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 363, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 420, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "105": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "106": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 646, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "107": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 363, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 420, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "110": {
+    "supplyItems": [
+      { "supplyItem": 127, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 1, "setsRequired": 2 },
+      { "supplyItem": 359, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "111": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 1, "setsRequired": 2 },
+      { "supplyItem": 646, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "112": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 365, "setQuantity": 1, "setsRequired": 2 },
+      { "supplyItem": 364, "setQuantity": 1, "setsRequired": 2 },
+      { "supplyItem": 420, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "500": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 8, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "501": {
+    "supplyItems": [
+      { "supplyItem": 10, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 102, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 219, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "502": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 405, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "503": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "504": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 105, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 219, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "505": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "506": {
+    "supplyItems": [
+      { "supplyItem": 7, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "507": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 105, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 212, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "508": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 408, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "509": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "510": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "511": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "512": {
+    "supplyItems": [
+      { "supplyItem": 9, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 12, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "513": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 102, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "514": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "515": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 12, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "516": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "517": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "518": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 19, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "519": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "520": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "550": {
+    "supplyItems": [
+      { "supplyItem": 9, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 206, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "551": {
+    "supplyItems": [
+      { "supplyItem": 103, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 206, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "552": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 413, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 412, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 517, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "553": {
+    "supplyItems": [
+      { "supplyItem": 11, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 206, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "554": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "555": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "556": {
+    "supplyItems": [
+      { "supplyItem": 11, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "557": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "558": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 218, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 417, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "559": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 218, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "560": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "561": {
+    "supplyItems": [
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "562": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "563": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "564": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 418, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "565": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "566": {
+    "supplyItems": [
+      { "supplyItem": 123, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "567": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "568": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 119, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 126, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "569": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 123, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "570": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 420, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "600": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "601": {
+    "supplyItems": [
+      { "supplyItem": 105, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "602": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "603": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "604": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "605": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "606": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "607": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "608": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 329, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "609": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "610": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "611": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "612": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "613": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "614": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 221, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "615": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 123, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "616": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "617": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "618": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 123, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "619": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 233, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "620": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "650": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "651": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 116, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 206, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "652": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "653": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "654": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 116, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "655": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "656": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "657": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "658": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 329, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "659": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "660": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "661": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 116, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "662": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 109, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "663": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "664": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "665": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 123, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "666": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "667": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "668": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 123, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 238, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "669": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "670": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 422, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "700": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "701": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 105, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 219, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "702": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "703": {
+    "supplyItems": [
+      { "supplyItem": 7, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "704": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 105, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 212, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "705": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 408, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "706": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 10, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "707": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "708": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "709": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "710": {
+    "supplyItems": [
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 17, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "711": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "712": {
+    "supplyItems": [
+      { "supplyItem": 127, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 126, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "713": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 19, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 17, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "714": {
+    "supplyItems": [
+      { "supplyItem": 133, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "715": {
+    "supplyItems": [
+      { "supplyItem": 31, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "716": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 219, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 640, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "717": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "718": {
+    "supplyItems": [
+      { "supplyItem": 32, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "719": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "720": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 423, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "721": {
+    "supplyItems": [
+      { "supplyItem": 33, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "722": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 26, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "723": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "724": {
+    "supplyItems": [
+      { "supplyItem": 34, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "725": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 140, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "726": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 377, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "727": {
+    "supplyItems": [
+      { "supplyItem": 35, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "728": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 18, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 644, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "729": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "750": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "751": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 116, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "752": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "753": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "754": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "755": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 329, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "756": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 218, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "757": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "758": {
+    "supplyItems": [
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "759": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "760": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "761": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "762": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 227, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "763": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "764": {
+    "supplyItems": [
+      { "supplyItem": 133, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "765": {
+    "supplyItems": [
+      { "supplyItem": 134, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "766": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "767": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "768": {
+    "supplyItems": [
+      { "supplyItem": 135, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "769": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "770": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 361, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "771": {
+    "supplyItems": [
+      { "supplyItem": 136, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "772": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "773": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 140, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "774": {
+    "supplyItems": [
+      { "supplyItem": 137, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "775": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 377, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "776": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 365, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "777": {
+    "supplyItems": [
+      { "supplyItem": 138, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "778": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 361, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 377, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "779": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "800": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "801": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "802": {
+    "supplyItems": [
+      { "supplyItem": 12, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 319, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "803": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "804": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "805": {
+    "supplyItems": [
+      { "supplyItem": 110, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 329, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "806": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "807": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "808": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "809": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "810": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "811": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "812": {
+    "supplyItems": [
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "813": {
+    "supplyItems": [
+      { "supplyItem": 229, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "814": {
+    "supplyItems": [
+      { "supplyItem": 246, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 127, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "815": {
+    "supplyItems": [
+      { "supplyItem": 247, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "816": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "817": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 359, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "818": {
+    "supplyItems": [
+      { "supplyItem": 248, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "819": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 214, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "820": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "821": {
+    "supplyItems": [
+      { "supplyItem": 249, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "822": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "823": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "824": {
+    "supplyItems": [
+      { "supplyItem": 250, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "825": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "826": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "827": {
+    "supplyItems": [
+      { "supplyItem": 251, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "828": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 377, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "829": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 235, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 127, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "850": {
+    "supplyItems": [
+      { "supplyItem": 11, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 114, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 206, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "851": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 224, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "852": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "853": {
+    "supplyItems": [
+      { "supplyItem": 11, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 125, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 213, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "854": {
+    "supplyItems": [
+      { "supplyItem": 106, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 108, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "855": {
+    "supplyItems": [
+      { "supplyItem": 116, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 218, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 417, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "856": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 237, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "857": {
+    "supplyItems": [
+      { "supplyItem": 108, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 229, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "858": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 116, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 362, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "859": {
+    "supplyItems": [
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 353, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "860": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 222, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "861": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 344, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 363, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 348, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "862": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "863": {
+    "supplyItems": [
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 122, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 19, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "864": {
+    "supplyItems": [
+      { "supplyItem": 246, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 127, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 360, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "865": {
+    "supplyItems": [
+      { "supplyItem": 371, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "866": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 228, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "867": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "868": {
+    "supplyItems": [
+      { "supplyItem": 372, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "869": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 110, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "870": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 419, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 527, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "871": {
+    "supplyItems": [
+      { "supplyItem": 373, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 238, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "872": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "873": {
+    "supplyItems": [
+      { "supplyItem": 139, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 115, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 117, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "874": {
+    "supplyItems": [
+      { "supplyItem": 374, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "875": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 21, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 240, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "876": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 376, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "877": {
+    "supplyItems": [
+      { "supplyItem": 375, "setQuantity": 1, "setsRequired": 1 },
+      { "supplyItem": 126, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "878": {
+    "supplyItems": [
+      { "supplyItem": 36, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 230, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 253, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "879": {
+    "supplyItems": [
+      { "supplyItem": 252, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 127, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 378, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 643, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1000": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1001": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1002": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1003": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1004": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 40, "setsRequired": 3 }
+    ]
+  },
+  "1005": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1006": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1007": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 65, "setsRequired": 3 }
+    ]
+  },
+  "1008": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1009": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1010": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1011": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1012": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1013": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 40, "setsRequired": 3 }
+    ]
+  },
+  "1014": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1015": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1016": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 65, "setsRequired": 3 }
+    ]
+  },
+  "1017": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1018": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1019": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1020": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1021": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1022": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 40, "setsRequired": 3 }
+    ]
+  },
+  "1023": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1024": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1025": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 65, "setsRequired": 3 }
+    ]
+  },
+  "1026": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1027": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1028": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1029": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 10, "setsRequired": 3 }
+    ]
+  },
+  "1030": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1031": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 40, "setsRequired": 3 }
+    ]
+  },
+  "1032": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1033": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 817, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 924, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1034": {
+    "supplyItems": [
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 613, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 921, "setQuantity": 65, "setsRequired": 3 }
+    ]
+  },
+  "1035": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 628, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 55, "setsRequired": 3 }
+    ]
+  },
+  "1036": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 104, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 928, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1037": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 929, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1038": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1039": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 104, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 625, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 928, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1040": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 513, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 929, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1041": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 846, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1042": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 104, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 625, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 928, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1043": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 513, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 929, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1044": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 846, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1050": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1051": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1052": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1053": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1054": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1055": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1056": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1057": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1058": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1059": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1060": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1061": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1062": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1063": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1064": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1065": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1066": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1067": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1068": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1069": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1070": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1071": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1072": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1073": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1074": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1075": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1076": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1077": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1078": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1079": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1080": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1081": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1082": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 30, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1083": {
+    "supplyItems": [
+      { "supplyItem": 3, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 6, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 7, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1084": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 5, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1085": {
+    "supplyItems": [
+      { "supplyItem": 6, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 223, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 55, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1086": {
+    "supplyItems": [
+      { "supplyItem": 10, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 107, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1087": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1088": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1089": {
+    "supplyItems": [
+      { "supplyItem": 10, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 107, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1090": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1091": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 321, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1092": {
+    "supplyItems": [
+      { "supplyItem": 10, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 16, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 107, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1093": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 621, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1094": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 321, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 936, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 938, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1100": {
+    "supplyItems": [
+      { "supplyItem": 8, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 106, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1101": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1102": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1103": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1104": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1105": {
+    "supplyItems": [
+      { "supplyItem": 126, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1106": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1107": {
+    "supplyItems": [
+      { "supplyItem": 28, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 29, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1108": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 358, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1109": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 245, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 425, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 909, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1150": {
+    "supplyItems": [
+      { "supplyItem": 10, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1151": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1152": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 505, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 936, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 937, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1153": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 211, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 936, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 937, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1154": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 932, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1155": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1156": {
+    "supplyItems": [
+      { "supplyItem": 21, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1157": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 943, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1158": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 943, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 29, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1159": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 945, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1200": {
+    "supplyItems": [
+      { "supplyItem": 103, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 25, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1201": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1202": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1203": {
+    "supplyItems": [
+      { "supplyItem": 120, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 220, "setQuantity": 15, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 25, "setsRequired": 3 }
+    ]
+  },
+  "1204": {
+    "supplyItems": [
+      { "supplyItem": 655, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 853, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 932, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1205": {
+    "supplyItems": [
+      { "supplyItem": 853, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1206": {
+    "supplyItems": [
+      { "supplyItem": 853, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1207": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 242, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1208": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 882, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 244, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1209": {
+    "supplyItems": [
+      { "supplyItem": 926, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 886, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 530, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 909, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1250": {
+    "supplyItems": [
+      { "supplyItem": 4, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1251": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 210, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1252": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 233, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1253": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 233, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 332, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "1254": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 234, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 940, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1255": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 22, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1256": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1257": {
+    "supplyItems": [
+      { "supplyItem": 28, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 30, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1258": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 646, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 880, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1259": {
+    "supplyItems": [
+      { "supplyItem": 355, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 243, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 131, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 886, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1300": {
+    "supplyItems": [
+      { "supplyItem": 213, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 346, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 404, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 505, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 4, "setsRequired": 3 }
+    ]
+  },
+  "1301": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 120, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 8, "setsRequired": 3 },
+      { "supplyItem": 310, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1302": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 232, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 340, "setQuantity": 10, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1303": {
+    "supplyItems": [
+      { "supplyItem": 121, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 418, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 523, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 619, "setQuantity": 7, "setsRequired": 3 }
+    ]
+  },
+  "1304": {
+    "supplyItems": [
+      { "supplyItem": 655, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 853, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 940, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1305": {
+    "supplyItems": [
+      { "supplyItem": 122, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 321, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1350": {
+    "supplyItems": [
+      { "supplyItem": 8, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 103, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 508, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1351": {
+    "supplyItems": [
+      { "supplyItem": 15, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 111, "setQuantity": 4, "setsRequired": 3 },
+      { "supplyItem": 508, "setQuantity": 7, "setsRequired": 3 },
+      { "supplyItem": 510, "setQuantity": 6, "setsRequired": 3 }
+    ]
+  },
+  "1352": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 226, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 815, "setQuantity": 15, "setsRequired": 3 }
+    ]
+  },
+  "1353": {
+    "supplyItems": [
+      { "supplyItem": 17, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 112, "setQuantity": 6, "setsRequired": 3 },
+      { "supplyItem": 357, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 8, "setsRequired": 3 }
+    ]
+  },
+  "1354": {
+    "supplyItems": [
+      { "supplyItem": 22, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 524, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 940, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1355": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 941, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1400": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1401": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1402": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 846, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1403": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1404": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1405": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 846, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1406": {
+    "supplyItems": [
+      { "supplyItem": 16, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1407": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1408": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 846, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1409": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1410": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1411": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 914, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1412": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 9 }
+    ]
+  },
+  "1413": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 9 }
+    ]
+  },
+  "1414": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 914, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1415": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 15 }
+    ]
+  },
+  "1416": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 15 }
+    ]
+  },
+  "1417": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 914, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1418": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1419": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1420": {
+    "supplyItems": [
+      { "supplyItem": 25, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1421": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1422": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1423": {
+    "supplyItems": [
+      { "supplyItem": 25, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1424": {
+    "supplyItems": [
+      { "supplyItem": 19, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 625, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1425": {
+    "supplyItems": [
+      { "supplyItem": 20, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 513, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1426": {
+    "supplyItems": [
+      { "supplyItem": 25, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1427": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1428": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 3 }
+    ]
+  },
+  "1429": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1430": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 9 }
+    ]
+  },
+  "1431": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 9 }
+    ]
+  },
+  "1432": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1433": {
+    "supplyItems": [
+      { "supplyItem": 18, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 15 }
+    ]
+  },
+  "1434": {
+    "supplyItems": [
+      { "supplyItem": 23, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 648, "setQuantity": 1, "setsRequired": 15 }
+    ]
+  },
+  "1435": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 942, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 923, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1436": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1437": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 241, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 528, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1438": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1439": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1440": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 241, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 528, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1441": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1442": {
+    "supplyItems": [
+      { "supplyItem": 24, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1443": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 241, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 528, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1444": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1445": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 648, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1446": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 128, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1447": {
+    "supplyItems": [
+      { "supplyItem": 28, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1448": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 648, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1449": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 128, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1450": {
+    "supplyItems": [
+      { "supplyItem": 28, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1451": {
+    "supplyItems": [
+      { "supplyItem": 26, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 113, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 648, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1452": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 128, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1453": {
+    "supplyItems": [
+      { "supplyItem": 28, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 366, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1454": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1455": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1456": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1457": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1458": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1459": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1460": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1461": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1462": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 882, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1463": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1464": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1465": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1466": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1467": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1468": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1469": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1470": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1471": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 883, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 354, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1472": {
+    "supplyItems": [
+      { "supplyItem": 946, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 532, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1473": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 427, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 889, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1474": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 132, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 909, "setQuantity": 5, "setsRequired": 3 }
+    ]
+  },
+  "1475": {
+    "supplyItems": [
+      { "supplyItem": 946, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 532, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1476": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 427, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 889, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1477": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 132, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 909, "setQuantity": 5, "setsRequired": 9 }
+    ]
+  },
+  "1478": {
+    "supplyItems": [
+      { "supplyItem": 946, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 532, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 657, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1479": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 427, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 889, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1480": {
+    "supplyItems": [
+      { "supplyItem": 29, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 132, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 909, "setQuantity": 5, "setsRequired": 15 }
+    ]
+  },
+  "1481": {
+    "supplyItems": [
+      { "supplyItem": 945, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 131, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1482": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 530, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 425, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 245, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1483": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 355, "setQuantity": 5, "setsRequired": 3 },
+      { "supplyItem": 909, "setQuantity": 30, "setsRequired": 3 }
+    ]
+  },
+  "1484": {
+    "supplyItems": [
+      { "supplyItem": 945, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 131, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1485": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 530, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 425, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 245, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1486": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 355, "setQuantity": 5, "setsRequired": 9 },
+      { "supplyItem": 909, "setQuantity": 30, "setsRequired": 9 }
+    ]
+  },
+  "1487": {
+    "supplyItems": [
+      { "supplyItem": 945, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 131, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 656, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1488": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 530, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 425, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 245, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1489": {
+    "supplyItems": [
+      { "supplyItem": 30, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 355, "setQuantity": 5, "setsRequired": 15 },
+      { "supplyItem": 909, "setQuantity": 30, "setsRequired": 15 }
+    ]
+  },
+  "1490": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 892, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1491": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 142, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 534, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1492": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 947, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 430, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1493": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 892, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1494": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 142, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 534, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1495": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 947, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 430, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1496": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 892, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1497": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 142, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 534, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1498": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 947, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 430, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1499": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 533, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 141, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1500": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 255, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1501": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 381, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1502": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 533, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 141, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1503": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 255, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1504": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 381, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1505": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 533, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 141, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1506": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 255, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1507": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 381, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1508": {
+    "supplyItems": [
+      { "supplyItem": 37, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 379, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 428, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1509": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 142, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1510": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 256, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 893, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 660, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1511": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 381, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 535, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1512": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1513": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 535, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1514": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1515": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1516": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 535, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1517": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1518": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1519": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 535, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1520": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1521": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 537, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1522": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1523": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1524": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 537, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1525": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1526": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1527": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 537, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1528": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1529": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1530": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 382, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 431, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1531": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1532": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 258, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1533": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 536, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1534": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1535": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 538, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1536": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1537": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1538": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 538, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1539": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1540": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1541": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 538, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1542": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1543": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1544": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1545": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1546": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1547": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1548": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1549": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1550": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1551": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1552": {
+    "supplyItems": [
+      { "supplyItem": 141, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 382, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 431, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1553": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1554": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 41, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1555": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1556": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1557": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 950, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1558": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1559": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1560": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 950, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1561": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1562": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 949, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1563": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 950, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1564": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 661, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1565": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1566": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1567": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1568": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1569": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1570": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1571": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 143, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1572": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1573": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1574": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 382, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 429, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1575": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1576": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 951, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1577": {
+    "supplyItems": [
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1578": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 948, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1579": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 538, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1580": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1581": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 948, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1582": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 538, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1583": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1584": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 948, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1585": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1586": {
+    "supplyItems": [
+      { "supplyItem": 258, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 432, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1587": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 256, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1588": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1589": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1590": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 256, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1591": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1592": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1593": {
+    "supplyItems": [
+      { "supplyItem": 38, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 659, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 256, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1594": {
+    "supplyItems": [
+      { "supplyItem": 39, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 896, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1595": {
+    "supplyItems": [
+      { "supplyItem": 145, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1596": {
+    "supplyItems": [
+      { "supplyItem": 141, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 257, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 41, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1597": {
+    "supplyItems": [
+      { "supplyItem": 429, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 144, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1598": {
+    "supplyItems": [
+      { "supplyItem": 383, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 41, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 898, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1599": {
+    "supplyItems": [
+      { "supplyItem": 40, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 145, "setQuantity": 2, "setsRequired": 3 },
+      { "supplyItem": 539, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1600": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1601": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1014, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1023, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1602": {
+    "supplyItems": [
+      { "supplyItem": 1015, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1019, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1603": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1604": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1014, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1023, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1605": {
+    "supplyItems": [
+      { "supplyItem": 1015, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1019, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1606": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1607": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1014, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1023, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1608": {
+    "supplyItems": [
+      { "supplyItem": 1015, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1019, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1609": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1018, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1610": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1611": {
+    "supplyItems": [
+      { "supplyItem": 1013, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1022, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1612": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1018, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1613": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1614": {
+    "supplyItems": [
+      { "supplyItem": 1013, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1022, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1615": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1018, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1616": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1617": {
+    "supplyItems": [
+      { "supplyItem": 1013, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1022, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1618": {
+    "supplyItems": [
+      { "supplyItem": 1023, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1014, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1619": {
+    "supplyItems": [
+      { "supplyItem": 1018, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1620": {
+    "supplyItems": [
+      { "supplyItem": 1017, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1621": {
+    "supplyItems": [
+      { "supplyItem": 1010, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1013, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1019, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1622": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1623": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1624": {
+    "supplyItems": [
+      { "supplyItem": 1031, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1625": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1626": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1627": {
+    "supplyItems": [
+      { "supplyItem": 1031, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1628": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1629": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1630": {
+    "supplyItems": [
+      { "supplyItem": 1031, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1631": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1632": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1633": {
+    "supplyItems": [
+      { "supplyItem": 1026, "setQuantity": 1, "setsRequired": 3 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1634": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1635": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1636": {
+    "supplyItems": [
+      { "supplyItem": 1026, "setQuantity": 1, "setsRequired": 9 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1637": {
+    "supplyItems": [
+      { "supplyItem": 1025, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1638": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1030, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1639": {
+    "supplyItems": [
+      { "supplyItem": 1026, "setQuantity": 1, "setsRequired": 15 },
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1640": {
+    "supplyItems": [
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1029, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1641": {
+    "supplyItems": [
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1642": {
+    "supplyItems": [
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1021, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1643": {
+    "supplyItems": [
+      { "supplyItem": 1028, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1027, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1020, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1644": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 828, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1645": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1646": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1647": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 828, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1648": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1649": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1650": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 243, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 828, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1651": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1652": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1653": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1654": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1032, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1655": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1656": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1657": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1032, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 9 }
+    ]
+  },
+  "1658": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 9 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1659": {
+    "supplyItems": [
+      { "supplyItem": 944, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1024, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1660": {
+    "supplyItems": [
+      { "supplyItem": 27, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1032, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 15 }
+    ]
+  },
+  "1661": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 1012, "setQuantity": 3, "setsRequired": 15 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1662": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1019, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1663": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 1016, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 658, "setQuantity": 2, "setsRequired": 3 }
+    ]
+  },
+  "1664": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 926, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  },
+  "1665": {
+    "supplyItems": [
+      { "supplyItem": 1011, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 615, "setQuantity": 3, "setsRequired": 3 },
+      { "supplyItem": 610, "setQuantity": 3, "setsRequired": 3 }
+    ]
+  }
+}

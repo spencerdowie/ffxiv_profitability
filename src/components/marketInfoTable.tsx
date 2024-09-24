@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ItemMarketInfo } from "@/types";
-import { getStandardDeviation } from "@/utils/marketDataHelpers";
+import { getStandardDeviation, priceFormatOptions, priceFormatOptionsSlim } from "@/utils/marketDataHelpers";
 
 const headers = (
   <thead>
@@ -61,40 +61,20 @@ export default function MarketInfoTable(props: { marketInfo: ItemMarketInfo }) {
           <tr className="text-center">
             <td>{marketInfo.quantForSale.toLocaleString()}</td>
             <td>
-              {marketInfo.minPrice.toLocaleString("en-CA", {
-                style: "currency",
-                currency: "CAD",
-                currencyDisplay: "symbol",
-                maximumFractionDigits: 0,
-              })}
+              {marketInfo.minPrice.toLocaleString("en-CA", priceFormatOptionsSlim)}
             </td>
             <td>
-              {marketInfo.averagePrice.toLocaleString("en-CA", {
-                style: "currency",
-                currency: "CAD",
-                currencyDisplay: "symbol",
-                maximumFractionDigits: 2,
-              })}
+              {marketInfo.averagePrice.toLocaleString("en-CA", priceFormatOptions)}
             </td>
             <td>
-              {marketInfo.currentAveragePrice.toLocaleString("en-CA", {
-                style: "currency",
-                currency: "CAD",
-                currencyDisplay: "symbol",
-                maximumFractionDigits: 2,
-              })}
+              {marketInfo.currentAveragePrice.toLocaleString("en-CA", priceFormatOptions)}
             </td>
             <td>
               {marketInfo.listings &&
                 getStandardDeviation(
                   marketInfo.listings.map((listing) => listing.total),
                   marketInfo.quantForSale
-                ).toLocaleString("en-CA", {
-                  style: "currency",
-                  currency: "CAD",
-                  currencyDisplay: "symbol",
-                  maximumFractionDigits: 2,
-                })}
+                ).toLocaleString("en-CA", priceFormatOptions)}
             </td>
             <td>{marketInfo.lastWeekUnitVolume.toLocaleString()}</td>
             <td>
@@ -109,12 +89,7 @@ export default function MarketInfoTable(props: { marketInfo: ItemMarketInfo }) {
                 })}
             </td>
             <td>
-              {marketInfo.lastWeekGilVolume.toLocaleString("en-CA", {
-                style: "currency",
-                currency: "CAD",
-                currencyDisplay: "symbol",
-                maximumFractionDigits: 0,
-              })}
+              {marketInfo.lastWeekGilVolume.toLocaleString("en-CA", priceFormatOptionsSlim)}
             </td>
             <td>
               {(

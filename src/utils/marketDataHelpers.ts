@@ -13,6 +13,20 @@ const marketDataFields = [
   "listings",
 ];
 
+export const priceFormatOptionsSlim = {
+  style: "currency",
+  currency: "CAD",
+  currencyDisplay: "symbol",
+  maximumFractionDigits: 0,
+};
+
+export const priceFormatOptions = {
+  style: "currency",
+  currency: "CAD",
+  currencyDisplay: "symbol",
+  maximumFractionDigits: 2,
+};
+
 export async function GetMarketData(
   itemIDs: Array<string>,
   history: boolean = true

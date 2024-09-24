@@ -7,6 +7,7 @@ const sideBarItems = [
   { href: "/", title: "Search" },
   { href: "/inventory", title: "Inventory" },
   { href: "/CompanyProject", title: "Company Project" },
+  { href: "/GrandCompanySeals", title: "Grand Company Seals" },
 ];
 
 export default function Layout({ children }: LayoutProps) {
